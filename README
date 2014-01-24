@@ -1,1 +1,3 @@
 login sina weibo using python
+change the name and password to your own in the following:
+weibo = WeiboLogin('name', 'password')
